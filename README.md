@@ -2,7 +2,7 @@
 
 O projeto com intuito de utilizar somente Bootstrap.
 <div>
- Aqui você pode ver o resultado do projeto: https://mnnobre.github.io/projetoUtilizandoBootstrap/
+ Aqui você pode ver o resultado do projeto: <a href="https://mnnobre.github.io/projetoUtilizandoBootstrap/"/>ProjetoUtilizandoBootstrap</a>
 </div>
 
 ## 🛠️ Construído com
@@ -12,4 +12,4 @@ O projeto com intuito de utilizar somente Bootstrap.
 
 ## ✒️ Autores
 
-* **Matheus Nobre** - *Trabalho Inicial* - [Mnnobre](https://github.com/mnnobre)
+* **Matheus Nobre** - *Desenvolvedor* - [Mnnobre](https://github.com/mnnobre)
